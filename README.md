@@ -1,6 +1,6 @@
 # dicee_flutter_2025
 
-A new Flutter project.
+This project was developed by following Angela Yu's Flutter Development Bootcamp on Udemy.
 
 ## Getting Started
 
